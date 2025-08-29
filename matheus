@@ -1,0 +1,17 @@
+Backend CRUD System
+
+This project is a backend application built with .NET following the MVC (Model-View-Controller) architecture. Its main purpose is to handle CRUD (Create, Read, Update, Delete) operations in a structured and scalable way.
+
+Features
+
+Implementation of CRUD operations with .NET
+
+Use of MVC pattern, generating the database directly from the Model
+
+Separation of concerns between models, controllers, and data access
+
+Integration ready to communicate with the frontend application
+
+Purpose
+
+The project was created to serve as a study base for backend development with .NET. By using MVC and database creation from the model, it demonstrates best practices for building maintainable and extendable backend systems.
